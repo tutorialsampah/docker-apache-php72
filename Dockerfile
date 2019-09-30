@@ -20,6 +20,7 @@ RUN apt-get update && apt-get install -yq --no-install-recommends \
     php7.2-ldap \
     php7.2-mbstring \
     php7.2-mysql \
+    php7.2-pgsql \
     php7.2-soap \
     php7.2-sqlite3 \
     php7.2-xml \
